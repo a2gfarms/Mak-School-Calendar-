@@ -1,0 +1,9 @@
+{
+  "name": "moss-and-ember",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A cozy, device-local homeschool planner for Makaylah.",
+  "type": "module",
+  "scripts": { "start": "node scripts/serve.mjs", "test": "node --test tests/core.test.mjs" },
+  "engines": { "node": ">=20" }
+}

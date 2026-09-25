@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" fill="none">
+<defs>
+ <radialGradient id="glow"><stop stop-color="#a5c39e" stop-opacity=".24"/><stop offset="1" stop-color="#244034" stop-opacity="0"/></radialGradient>
+ <linearGradient id="wing" x1="355" y1="158" x2="480" y2="326" gradientUnits="userSpaceOnUse"><stop stop-color="#b1b884"/><stop offset="1" stop-color="#476b4e"/></linearGradient>
+ <linearGradient id="cap" x1="180" y1="195" x2="180" y2="325" gradientUnits="userSpaceOnUse"><stop stop-color="#d4a687"/><stop offset="1" stop-color="#a87360"/></linearGradient>
+ <linearGradient id="body" x1="454" y1="230" x2="490" y2="378" gradientUnits="userSpaceOnUse"><stop stop-color="#8ba97c"/><stop offset="1" stop-color="#4b755b"/></linearGradient>
+</defs>
+<ellipse cx="442" cy="236" rx="310" ry="233" fill="url(#glow)"/>
+<g stroke="#77927b" opacity=".18" stroke-width="2"><path d="M646 350V10m0 101-59-53m59 127 66-78M72 357V79m0 111-51-47m51 124 58-52M724 378V37m0 223-50-47"/><path d="M590 373V93m0 122-35-37M148 367V26m0 82 32-38"/></g>
+<path d="M140 410c94-55 163-51 239-35 120-47 229-29 352 35" fill="#233a2f"/>
+<ellipse cx="431" cy="389" rx="271" ry="26" fill="#172e24"/>
+<!-- little ferns -->
+<g stroke="#719271" stroke-width="2" stroke-linecap="round"><path d="M650 393q-7-74 20-117m-14 39-22-15m21 33-25-14m23 31-28-11m33-37 20-5m-21 24 26-8m-29 26 24-3M284 385q-12-62-39-77m24 37 7-21m-2 32 10-18m-22-1-21-3m31 19-25-7M182 395q-10-45-39-58m22 21 1-18m10 33 4-18m-20-3-16 1m29 14-25-3"/></g>
+<!-- mushroom grove -->
+<path d="M191 277q-2 56-16 103 17 15 38 0-9-59-7-103" fill="#d9c9a4"/>
+<path d="M107 282c14-48 51-78 89-78 45 0 79 46 92 78-42 24-135 22-181 0Z" fill="url(#cap)"/>
+<ellipse cx="197" cy="282" rx="91" ry="15" fill="#e3c8a9"/>
+<g stroke="#ac8f72" opacity=".7"><path d="m194 276-77 8m77-8-53 15m53-15-18 19m28-19 21 19m-21-19 49 15m-49-15 72 8"/></g>
+<g fill="#efd8b8"><ellipse cx="163" cy="236" rx="16" ry="9" transform="rotate(-25 163 236)"/><ellipse cx="218" cy="229" rx="11" ry="7" transform="rotate(22 218 229)"/><ellipse cx="243" cy="256" rx="13" ry="7" transform="rotate(31 243 256)"/><ellipse cx="183" cy="258" rx="10" ry="6"/></g>
+<path d="m125 342-3 43h15l-4-43" fill="#d9c9a4"/><path d="M94 342q36-56 72 0c-20 13-52 13-72 0" fill="#c59771"/><ellipse cx="131" cy="341" rx="37" ry="7" fill="#e1c5a1"/><ellipse cx="122" cy="324" rx="8" ry="4" fill="#edd9bb"/>
+<!-- dragon wings and spikes -->
+<path d="M409 317c-52-63-61-139-49-185 24 38 57 55 88 72-1 50-10 85-39 113Z" fill="url(#wing)" stroke="#88a479" stroke-width="2"/>
+<path d="M360 132c9 65 36 112 49 185m-31-118 70 5m-55 38 43 6" stroke="#d0d4a1" opacity=".55" stroke-width="2"/>
+<path d="m429 280-4-23 25 17 3-25 18 22 12-28 13 29 21-27 2 31 20-19-5 34" fill="#bfbc83"/>
+<!-- curled body and tail -->
+<path d="M465 284c-89 0-109 60-88 90 28 41 151 42 193 4 24-22 8-49-18-39-17 8-4 28-24 33-46 17-115 10-119-9-6-28 69-23 92-22l5-40" fill="url(#body)" stroke="#91a781" stroke-width="2"/>
+<path d="M474 313c-39 0-64 17-65 38 21-13 53-12 78-10" fill="#c2c493"/>
+<path d="M484 355q10 9 20-3l9-26-24-5" fill="#72996c" stroke="#91a781" stroke-width="2"/>
+<path d="m489 352 3-5m2 7 3-5" stroke="#d0d4ad" stroke-width="2"/>
+<!-- dragon head -->
+<path d="m465 267-17-41 28 14m58 11 22-26-3 38" fill="#babe8c"/>
+<path d="M466 246c9-24 72-16 81 12l11 24c31 4 41 17 27 31-12 12-56 7-77 0-38-2-58-34-42-67Z" fill="url(#body)" stroke="#9ab289" stroke-width="2"/>
+<path d="M511 281q10 13 22 0" stroke="#253d2f" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="574" cy="297" r="2.5" fill="#344e3b"/><path d="M558 308q10 4 20 0" stroke="#344e3b" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="530" cy="299" rx="9" ry="4.5" fill="#c89f7f" opacity=".65"/>
+<g fill="#afc095" opacity=".7"><circle cx="485" cy="270" r="3"/><circle cx="491" cy="277" r="2"/><circle cx="473" cy="279" r="2"/><circle cx="401" cy="335" r="3"/><circle cx="394" cy="346" r="2"/></g>
+<!-- front mushrooms -->
+<path d="m596 350-6 40h19l-4-40" fill="#d5c7a1"/><path d="M566 350q29-57 67 0c-18 11-50 11-67 0" fill="#afbb8c"/><ellipse cx="599" cy="350" rx="34" ry="6" fill="#d4d3b0"/><g fill="#e4e0bd"><ellipse cx="591" cy="330" rx="7" ry="4"/><ellipse cx="612" cy="340" rx="5" ry="3"/></g>
+<path d="m636 375-2 20h9v-20" fill="#d5c7a1"/><path d="M619 375q18-34 37 0c-9 6-27 6-37 0" fill="#b18e73"/>
+<!-- snail -->
+<path d="M298 396h31q13 0 11-14" stroke="#bbbf92" stroke-width="6" stroke-linecap="round"/><circle cx="312" cy="385" r="12" fill="#b79873"/><path d="M316 389c-11 4-15-11-5-11 7 0 7 7 3 7" stroke="#6e6451" stroke-width="2"/><path d="m337 381-3-8m7 10 4-8" stroke="#bbbf92" stroke-width="2"/>
+<!-- moth and quiet sparks -->
+<g transform="translate(316 150) rotate(-20)" fill="#c9c39b"><path d="M0 0c-30-34-44 5-5 7-26 15-14 29 5 7m2-14c30-34 44 5 5 7 26 15 14 29-5 7"/><path d="M1-5v26" stroke="#dfd8b8" stroke-width="3"/></g>
+<g fill="#ebcb8d"><circle cx="273" cy="194" r="2.5"/><circle cx="567" cy="151" r="2.5"/><circle cx="606" cy="237" r="2"/><circle cx="367" cy="100" r="2"/><circle cx="94" cy="232" r="2"/><circle cx="220" cy="143" r="2"/><circle cx="309" cy="299" r="2"/><path d="m492 112 3 8 8 3-8 3-3 8-3-8-8-3 8-3Zm134 64 2 5 5 2-5 2-2 5-2-5-5-2 5-2Z"/></g>
+</svg>
